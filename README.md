@@ -1,5 +1,6 @@
 # ios
 电脑上调试ios手机
+
 1.下载iTunes
 https://www.apple.com/itunes/
 点击下载64位的即可
